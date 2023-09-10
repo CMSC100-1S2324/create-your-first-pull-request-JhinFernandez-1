@@ -4,3 +4,5 @@ EF-2L
 "My Expectations in CMSC 100"
 
 In CMSC 100, I expect that I will be more proficient when it comes to the concepts included in this course and have my skills developed in web programming. I also expect that the journey of finishing this course will be challenging since programming is something I'm still not good at because sometimes it takes me time to understand some topics. Nevertheless, despite being difficult, I think that I'd still have fun since I will learn a lot of new things.
+
+Daphne: Hello Jhin! I actually feel the same way. Since I am not a computer science major, I'm still not good in programming. Additionally, I also hope to learn concepts and develop skills that will be useful in my own field of study. 
